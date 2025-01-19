@@ -1,0 +1,14 @@
+com/example/demo/PredictionService.class
+com/example/demo/UserController.class
+com/example/demo/AiPredictorApplication.class
+com/example/demo/PredictionRepository.class
+com/example/demo/HomeController.class
+com/example/demo/Prediction.class
+com/example/demo/PredictionRequest.class
+com/example/demo/JwtUtil.class
+com/example/demo/UserRepository.class
+com/example/demo/UserService.class
+com/example/demo/PredictionController.class
+com/example/demo/MoveController.class
+com/example/demo/LoginRequest.class
+com/example/demo/User.class
